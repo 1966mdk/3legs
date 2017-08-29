@@ -30,6 +30,18 @@
 <thumbnail>http://i.imgur.com/3NyLf9k.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>EuroSport1 HD</title>
+<link>https://goo.gl/aXtnkt</link>
+<thumbnail>http://i.imgur.com/qAaSp8L.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
+
+
 
 
 
