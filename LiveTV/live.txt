@@ -48,6 +48,12 @@
 <thumbnail>http://i.imgur.com/RtrOosi.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>DMax (German)</title>
+<link>https://goo.gl/QGgFpq</link>
+<thumbnail>http://i.imgur.com/2VIs0lL.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
