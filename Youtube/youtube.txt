@@ -1,0 +1,6 @@
+<item>
+<title>The Beatles Penny Lane</title>
+<utube>S-rB0pHI9fU</utube>
+<thumbnail>https://github.com/1966mdk/3legs/blob/master/youtubeicon.png</thumbnail>
+<fanart>https://github.com/1966mdk/3legs/blob/master/yootube%20fanart.png</fanart>
+</item>
