@@ -4,7 +4,7 @@
 <channels>
 <channel>
 <name>Live TV</name>
-<thumbnail></thumbnail>
+<thumbnail>http://imgur.com/3nvuczg</thumbnail>
 <externallink>https://goo.gl/m6xkD4</externallink>
 <fanart>https://goo.gl/MD8h6f</fanart>
 <info>3legs Kodi Addon</info>
