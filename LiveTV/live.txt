@@ -25,8 +25,8 @@
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
 <item>
-<title>Sky Sports Cricket HD</title>
-<link>https://goo.gl/7kH4gA</link>
+<title>Sky Sports Action HD</title>
+<link>https://goo.gl/EBT9jS</link>
 <thumbnail>http://i.imgur.com/3NyLf9k.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
