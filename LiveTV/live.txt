@@ -54,7 +54,12 @@
 <thumbnail>http://i.imgur.com/2VIs0lL.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
-
+<item>
+<title>Home</title>
+<link>https://goo.gl/nAm6QL</link>
+<thumbnail>http://i.imgur.com/BSaFast.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
