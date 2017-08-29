@@ -72,6 +72,12 @@
 <thumbnail>http://i.imgur.com/fQBYEej.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Challenge Tv</title>
+<link>https://goo.gl/sFUvAY</link>
+<thumbnail>http://i.imgur.com/BrJrumU.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
