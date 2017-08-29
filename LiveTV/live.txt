@@ -8,6 +8,6 @@
 <item>
 <title>Sky Sports HD main event</title>
 <link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10935.ts</link>
-<thumbnail>http://www.tellysport.co.uk/assets/uploads/tv/acdab-sky-sports-main-event-hd.png</thumbnail>
+<thumbnail>http://i.imgur.com/nxwiEbu.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
