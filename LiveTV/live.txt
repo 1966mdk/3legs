@@ -1,6 +1,0 @@
-<item>
-<title>RTE2 HD</title>
-<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10970.ts</link>
-<thumbnail>https://github.com/1966mdk/3legs/blob/master/RTE2HD.jpg</thumbnail>
-<fanart>https://github.com/1966mdk/3legs/blob/master/fanart.jpg</fanart>
-</item>
