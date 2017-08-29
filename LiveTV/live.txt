@@ -60,6 +60,12 @@
 <thumbnail>http://i.imgur.com/BSaFast.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Filmon Tv Really</title>
+<link>https://goo.gl/BnemG5</link>
+<thumbnail>http://i.imgur.com/Pg9SxWN.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
