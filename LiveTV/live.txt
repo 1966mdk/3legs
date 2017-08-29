@@ -4,10 +4,16 @@
 <thumbnail>https://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
-
 <item>
 <title>Sky Sports HD main event</title>
 <link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10935.ts</link>
 <thumbnail>http://i.imgur.com/nxwiEbu.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Sky Sports HD</title>
+<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10918.ts</link>
+<thumbnail>https://smhttp-ssl-23575.nexcesscdn.net/80ABE1/sflashrouters/wp/wp-content/uploads/2014/08/sky-sports-hd-logo-vpn3.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
