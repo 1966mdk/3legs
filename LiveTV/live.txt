@@ -36,6 +36,12 @@
 <thumbnail>http://i.imgur.com/qAaSp8L.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>BT Sport ESPN HD</title>
+<link>https://goo.gl/Cxb5VE</link>
+<thumbnail>http://i.imgur.com/x0ybk3E.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
