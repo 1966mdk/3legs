@@ -90,6 +90,12 @@
 <thumbnail>http://i.imgur.com/kUqVvsS.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>MTV Live HD</title>
+<link>https://goo.gl/3tYGvk</link>
+<thumbnail>http://i.imgur.com/B1rPXrG.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
