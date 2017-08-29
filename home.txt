@@ -1,0 +1,53 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>http://imgur.com/KSl1q9B</thumbnail>
+<externallink>https://goo.gl/KqxaBJ</externallink>
+<fanart>http://imgur.com/S5MNhcs</fanart>
+<info>3 Legs</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>http://imgur.com/60Ekj0z</thumbnail>
+<externallink></externallink>
+<fanart>http://imgur.com/CuBfmeg</fanart>
+<info>3 Legs</info>
+</channel>
+
+<channel>
+<name>Tv Shows</name>
+<thumbnail>http://imgur.com/H5r5jVE</thumbnail>
+<externallink></externallink>
+<fanart>http://imgur.com/S5MNhcs</fanart>
+<info>3 Legs</info>
+</channel>
+
+<channel>
+<name>Sports</name>
+<thumbnail>http://imgur.com/0Ecf18w</thumbnail>
+<externallink></externallink>
+<fanart>http://imgur.com/S5MNhcs</fanart>
+<info>3 Legs</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail>http://imgur.com/Obt3VSj</thumbnail>
+<externallink></externallink>
+<fanart>http://imgur.com/a/sn99H</fanart>
+<info>3 Legs</info>
+</channel>
+
+<channel>
+<name>Cctv</name>
+<thumbnail>http://imgur.com/VAUPfKH</thumbnail>
+<externallink></externallink>
+<fanart>http://imgur.com/S5MNhcs</fanart>
+<info>3 Legs</info>
+</channel>
+
+</channels>
