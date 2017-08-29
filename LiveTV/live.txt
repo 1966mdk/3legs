@@ -1,6 +1,0 @@
-<item>
-<title>RTE2 HD</title>
-<link>https://goo.gl/KqxaBJ</link>
-<thumbnail>http://imgur.com/0ocBZ2R</thumbnail>
-<fanart></fanart>
-</item>
