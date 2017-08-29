@@ -66,6 +66,12 @@
 <thumbnail>http://i.imgur.com/Pg9SxWN.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>TLC</title>
+<link>https://goo.gl/ibgS23</link>
+<thumbnail>http://i.imgur.com/fQBYEej.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
