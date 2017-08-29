@@ -42,6 +42,12 @@
 <thumbnail>http://i.imgur.com/x0ybk3E.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Sky Sports Golf HD</title>
+<link>https://goo.gl/GWC5EQ</link>
+<thumbnail>http://i.imgur.com/RtrOosi.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
