@@ -19,3 +19,10 @@
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
 
+<item>
+<title>Sky Sports Action HD</title>
+<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10919.ts</link>
+<thumbnail>http://i.imgur.com/nsi4GKH.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
