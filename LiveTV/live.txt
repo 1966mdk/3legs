@@ -7,7 +7,7 @@
 <item>
 <title>Sky Sports HD main event</title>
 <link>https://goo.gl/7ffmrG</link>
-<thumbnail>http://i.imgur.com/nxwiEbu.png</thumbnail>
+<thumbnail>http://i.imgur.com/O1XXTQ0.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
 <item>
