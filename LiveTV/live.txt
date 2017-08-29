@@ -84,6 +84,16 @@
 <thumbnail>http://i.imgur.com/3UvNeEA.jpg</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Botched!</title>
+<link>https://goo.gl/GkAZ3y</link>
+<thumbnail>http://i.imgur.com/kUqVvsS.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
 
 
 
