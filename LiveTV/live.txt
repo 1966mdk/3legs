@@ -1,6 +1,6 @@
 <item>
 <title>BT Sports1 HD</title>
-<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10928.ts</link>
+<link>https://goo.gl/xRQxhp</link>
 <thumbnail>https://www.thelogodb.com/images/media/logo/yqvvvx1433963709.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
