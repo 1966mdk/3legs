@@ -78,7 +78,12 @@
 <thumbnail>http://i.imgur.com/BrJrumU.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
-
+<item>
+<title>True Entertainment</title>
+<link>https://goo.gl/hy8dYi</link>
+<thumbnail>http://i.imgur.com/3UvNeEA.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
 
 
 
