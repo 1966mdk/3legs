@@ -1,6 +1,0 @@
-<item>
-<title>Dave</title>
-<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10960.ts</link>
-<thumbnail>http://i.imgur.com/FpK2SFd.jpg</thumbnail>
-<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
-</item>
