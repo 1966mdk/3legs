@@ -1,5 +1,0 @@
-name= DMAX  HD url= "http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10941.ts" logo= "https://www.logaster.com/blog/wp-content/uploads/2012/10/tv_screen-logo.png"
-name= BT Sports 1 HD url= "http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10928.ts" logo= "http://images.pitchero.com/nl/1444131383_original.jpg"
-name= Sky Sports HD Main Event url= "http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10935.ts" logo= "http://www.tellysport.co.uk/assets/uploads/tv/acdab-sky-sports-main-event-hd.png"
-name= Disney Junior url= "http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/11005.ts" logo= "https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/012014/logo_disney_junior.png?itok=A6xykf4d"
-name= Disney Channel url= "http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/11006.ts" logo= "http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg"
