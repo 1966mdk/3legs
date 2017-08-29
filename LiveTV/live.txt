@@ -6,19 +6,19 @@
 </item>
 <item>
 <title>Sky Sports HD main event</title>
-<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10935.ts</link>
+<link>https://goo.gl/7ffmrG</link>
 <thumbnail>http://i.imgur.com/nxwiEbu.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports HD</title>
-<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10918.ts</link>
+<link>https://goo.gl/JUzyuy</link>
 <thumbnail>http://i.imgur.com/ehuqg4V.jpg</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
 <item>
 <title>Sky Sports Action HD</title>
-<link>http://eiffelpower.cloudip.tv:25461/live/qwerty238/klTMz8BP31/10919.ts</link>
+<link>https://goo.gl/EBT9jS</link>
 <thumbnail>http://i.imgur.com/nsi4GKH.jpg</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
