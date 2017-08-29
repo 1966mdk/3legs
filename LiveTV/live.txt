@@ -24,7 +24,7 @@
 <thumbnail>http://i.imgur.com/nsi4GKH.jpg</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
-item>
+<item>
 <title>Sky Sports Cricket HD</title>
 <link>https://goo.gl/7kH4gA</link>
 <thumbnail>http://i.imgur.com/3NyLf9k.png</thumbnail>
