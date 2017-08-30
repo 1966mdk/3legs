@@ -127,6 +127,35 @@
 <thumbnail>http://i.imgur.com/Hv6iIQ1.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Gold</title>
+<link>https://goo.gl/NPx85r</link>
+<thumbnail>http://i.imgur.com/Ivtfp85.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>MotorSport.TV HD</title>
+<link>https://goo.gl/4jEv24</link>
+<thumbnail>http://i.imgur.com/LwfRM5K.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Dave</title>
+<link>https://goo.gl/u1iXvw</link>
+<thumbnail>http://i.imgur.com/o7in4pA.jpg</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>TG4S - Cula4</title>
+<link>https://goo.gl/bs4Vjh</link>
+<thumbnail>http://i.imgur.com/4HlFHF8.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
+
 
 
 
