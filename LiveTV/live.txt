@@ -337,6 +337,13 @@
 <thumbnail>http://i.imgur.com/PpDnOGc.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Today</title>
+<link>https://goo.gl/iuFzcB</link>
+<thumbnail>http://i.imgur.com/LAWAZAT.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
 
 
 
