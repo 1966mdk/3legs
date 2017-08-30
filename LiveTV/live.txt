@@ -96,6 +96,26 @@
 <thumbnail>http://i.imgur.com/B1rPXrG.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Syfy</title>
+<link>https://goo.gl/SXiBTV</link>
+<thumbnail>http://i.imgur.com/eTsAIYi.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>YourTv</title>
+<link>https://goo.gl/owTBXd</link>
+<thumbnail>http://i.imgur.com/WwqDmGY.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
 
 
 
