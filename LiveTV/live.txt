@@ -212,11 +212,127 @@
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
 <item>
+<title>ITV2</title>
+<link>https://goo.gl/fPRh3g</link>
+<thumbnail>http://i.imgur.com/6NSNFcg.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
 <title>ITV3</title>
 <link>https://goo.gl/x2GQg3</link>
 <thumbnail>http://i.imgur.com/gxrOqPD.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>5 HD</title>
+<link>https://goo.gl/ZhioU5</link>
+<thumbnail>http://i.imgur.com/pmycwD5.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Channel 5</title>
+<link>https://goo.gl/qJZjek</link>
+<thumbnail>http://i.imgur.com/MHO2xeC.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Boomerang</title>
+<link>https://goo.gl/SxSyNw</link>
+<thumbnail>http://i.imgur.com/tdZtWXo.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Cartoonito</title>
+<link>https://goo.gl/2S9ckD</link>
+<thumbnail>http://i.imgur.com/4w1vv6z.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Baby Tv</title>
+<link>https://goo.gl/3v7pTP</link>
+<thumbnail>http://i.imgur.com/bRYuoEt.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Nick Jr</title>
+<link>https://goo.gl/pqL3HG</link>
+<thumbnail>http://i.imgur.com/6XgIOZv.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Disney Junior</title>
+<link>https://goo.gl/trzukK</link>
+<thumbnail>http://i.imgur.com/c9n2J1f.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Disney Channel</title>
+<link>https://goo.gl/i6BUaG</link>
+<thumbnail>http://i.imgur.com/Lf5utAu.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>CBBC</title>
+<link>https://goo.gl/rxFjtu</link>
+<thumbnail>http://i.imgur.com/GCe2Z8c.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Horror</title>
+<link>https://goo.gl/KTmeDW</link>
+<thumbnail>http://i.imgur.com/fygDSo5.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>VH1</title>
+<link>https://goo.gl/VrSEhT</link>
+<thumbnail>http://i.imgur.com/IEKiX0s.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>MTV Classic</title>
+<link>https://goo.gl/FBxWsq</link>
+<thumbnail>http://i.imgur.com/chfn7Ak.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>MTV Music</title>
+<link>https://goo.gl/cFvnNq</link>
+<thumbnail>http://i.imgur.com/dle5397.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>MTV Base</title>
+<link>https://goo.gl/gyFVsJ</link>
+<thumbnail>http://i.imgur.com/qB14qEG.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>MTV Rocks</title>
+<link>https://goo.gl/PY6kes</link>
+<thumbnail>http://i.imgur.com/KPmqFXe.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>MTV Hits</title>
+<link>https://goo.gl/zeFJfK</link>
+<thumbnail>http://i.imgur.com/gKE1XlN.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+https://goo.gl/zeFJfK
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
