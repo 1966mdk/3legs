@@ -163,6 +163,54 @@
 <thumbnail>http://i.imgur.com/C7rcRuH.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>Nuacht RTE</title>
+<link>https://goo.gl/gTcSg3</link>
+<thumbnail>http://i.imgur.com/f3N3E7A.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Quest</title>
+<link>https://goo.gl/JaQsRM</link>
+<thumbnail>http://i.imgur.com/HciZpe5.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Drama</title>
+<link>https://goo.gl/5TPp3w</link>
+<thumbnail>http://i.imgur.com/ZaohoqO.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>CBS Reality</title>
+<link>https://goo.gl/AJWUpi</link>
+<thumbnail>http://i.imgur.com/c3wXjRT.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>More4</title>
+<link>https://goo.gl/PEHs3s</link>
+<thumbnail>http://i.imgur.com/sy0SEtS.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>E4</title>
+<link>https://goo.gl/K4bjN1</link>
+<thumbnail>http://i.imgur.com/qEcwPNG.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>BBC4</title>
+<link>https://goo.gl/BhAAv7</link>
+<thumbnail>http://i.imgur.com/xXiHKLX.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
+
+
 
 
 
