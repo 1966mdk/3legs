@@ -151,6 +151,23 @@
 <thumbnail>http://i.imgur.com/4HlFHF8.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>3 News Ireland</title>
+<link>https://goo.gl/6iNPoE</link>
+<thumbnail>http://i.imgur.com/eEsKgIx.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>RTE2 HD</title>
+<link>https://goo.gl/RMsQy5</link>
+<thumbnail>http://i.imgur.com/C7rcRuH.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
+
 
 
 
