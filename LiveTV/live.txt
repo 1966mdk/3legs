@@ -205,6 +205,20 @@
 <thumbnail>http://i.imgur.com/xXiHKLX.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
+<item>
+<title>ITV Be</title>
+<link>https://goo.gl/gA3cSz</link>
+<thumbnail>http://i.imgur.com/dgTCIf7.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>ITV3</title>
+<link>https://goo.gl/x2GQg3</link>
+<thumbnail>http://i.imgur.com/gxrOqPD.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
 
 
 
