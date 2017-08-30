@@ -319,7 +319,28 @@
 <thumbnail>http://i.imgur.com/gKE1XlN.png</thumbnail>
 <fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
 </item>
-https://goo.gl/zeFJfK
+<item>
+<title>H2</title>
+<link>https://goo.gl/3C8qNz</link>
+<thumbnail>http://i.imgur.com/9be8e9E.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>WGN9 Chicago</title>
+<link>https://goo.gl/yNMsMH</link>
+<thumbnail>http://i.imgur.com/B1Pgwif.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+<item>
+<title>Bravo</title>
+<link>https://goo.gl/KBYaSR</link>
+<thumbnail>http://i.imgur.com/PpDnOGc.png</thumbnail>
+<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+</item>
+
+
+
+
 
 
 
