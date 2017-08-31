@@ -1,6 +1,7 @@
+
 <item>
 <title>The Beatles Penny Lane</title>
 <utube>S-rB0pHI9fU</utube>
 <thumbnail>http://i.imgur.com/shPnR5e.png</thumbnail>
-<fanart>http://i.imgur.com/Q4dyJhq.jpg</fanart>
+<fanart>http://i.imgur.com/2AfRKME.png</fanart>
 </item>
