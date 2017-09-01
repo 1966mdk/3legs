@@ -1,8 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:12,== SERVER 1 == last update 31/Aug/17 00:00 GMT
 
-#EXTINF:1,    360 North   
-http://Tv.iptvsensation.com:6500/live/VZEWg7Z67m/KbUEmPu1sO/3863.ts
 #EXTINF:1,    A&E   
 http://Tv.iptvsensation.com:6500/live/VZEWg7Z67m/KbUEmPu1sO/9315.ts
 #EXTINF:1,    ABC HD   
