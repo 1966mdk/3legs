@@ -343,6 +343,14 @@
 <thumbnail>http://i.imgur.com/LAWAZAT.png</thumbnail>
 <fanart>http://i.imgur.com/2AfRKME.png</fanart>
 </item>
+<item>
+<title>Setanta HD</title>
+<link>https://goo.gl/QTZUV8</link>
+<thumbnail>http://i.imgur.com/gGkq0yc.png</thumbnail>
+<fanart>http://i.imgur.com/2AfRKME.png</fanart>
+</item>
+
+
 
 
 
