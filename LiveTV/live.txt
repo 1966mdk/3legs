@@ -44,7 +44,7 @@
 </item>
 <item>
 <title>Sky Sports Golf HD</title>
-<link>https://goo.gl/GWC5EQ</link>
+<link>https://goo.gl/dc6zxd</link>
 <thumbnail>http://i.imgur.com/RtrOosi.png</thumbnail>
 <fanart>http://i.imgur.com/2AfRKME.png</fanart>
 </item>
